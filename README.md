@@ -1,5 +1,8 @@
 # Introduction
-## For this challenge, we will use the Kickstart dataset to:
+
+## Dataset: Kickstart My Chart
+
+### For this challenge, we will use the Kickstart dataset to:
 1. Format a few columns
 2. Create Calculated columns
 3. Convert Unix Timestamps to regular excel date format.
